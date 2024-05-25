@@ -1,0 +1,255 @@
+ERROR - 2024-04-03 07:51:47 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 07:51:47 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 07:52:06 --> Unknown column 'created_by' in 'field list'
+ERROR - 2024-04-03 07:52:06 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 07:52:06 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 07:52:47 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 07:52:47 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 07:55:07 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 07:55:07 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 07:59:41 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 07:59:41 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 08:16:59 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 08:16:59 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 08:18:21 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 08:18:21 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 08:20:13 --> Unknown column 'created_by' in 'field list'
+ERROR - 2024-04-03 08:20:13 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 08:20:13 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 08:24:54 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 08:24:54 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 09:37:02 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 09:37:02 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 09:56:28 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 09:56:28 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 09:56:36 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 09:56:36 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 09:56:39 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 09:56:39 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 09:56:44 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 09:56:44 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 09:56:45 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 09:56:45 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 11:12:19 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 11:12:19 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 11:12:19 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 11:12:19 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 11:12:20 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 11:12:20 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 11:12:20 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 11:12:20 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 11:13:58 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 11:13:58 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 11:13:59 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 11:13:59 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 11:14:03 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 11:14:03 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 11:15:27 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 11:15:27 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 11:15:34 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 11:15:34 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 11:15:34 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 11:15:34 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 12:02:52 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 12:02:52 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 14:24:13 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 14:24:13 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-04-03 14:24:28 --> Unknown column 'created_by' in 'field list'
+ERROR - 2024-04-03 14:24:28 --> Unknown column 'created_by' in 'where clause'
+CRITICAL - 2024-04-03 14:24:28 --> Call to a member function getResult() on bool
+#0 /home/u451016334/domains/suratdinkes.online/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#1 /home/u451016334/domains/suratdinkes.online/public_html/app/Controllers/Surat_Out.php(53): CodeIgniter\BaseModel->findAll()
+#2 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(825): App\Controllers\Surat_Out->ajax_out()
+#3 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /home/u451016334/domains/suratdinkes.online/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/u451016334/domains/suratdinkes.online/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
